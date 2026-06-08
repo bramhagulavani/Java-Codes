@@ -1,0 +1,49 @@
+## Java
+*.class
+*.jar
+*.war
+*.ear
+
+## Build directories
+/target/
+/out/
+/build/
+
+## IntelliJ
+.idea/
+*.iml
+
+## VS Code
+.vscode/
+
+## Eclipse
+.classpath
+.project
+.settings/
+
+## Mac / Linux
+.DS_Store
+
+## Windows
+Thumbs.db
+
+## Logs
+.log
+
+## OS generated files
+ehthumbs.db
+Icon?
+
+## Gradle
+/.gradle/
+
+## Maven
+/log/
+
+## Temporary files
+*~
+*.tmp
+
+# Keep README and source files only
+!README.md
+!*.java
