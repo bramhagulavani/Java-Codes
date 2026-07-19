@@ -35,3 +35,19 @@ java FirstProgram
 
 - New practice programs will be added over time.
 - Folder names may grow as more topics are covered.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
