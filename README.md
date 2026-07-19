@@ -50,4 +50,8 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/bramhagulavani/Java-Codes/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
