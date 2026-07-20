@@ -42,6 +42,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
@@ -65,4 +66,12 @@ java FirstProgram
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
