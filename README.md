@@ -42,6 +42,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +57,12 @@ java FirstProgram
 | [1251-average-selling-price](https://github.com/bramhagulavani/Java-Codes/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bramhagulavani/Java-Codes/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bramhagulavani/Java-Codes/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## String
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
