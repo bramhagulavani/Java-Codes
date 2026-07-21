@@ -44,6 +44,7 @@ java FirstProgram
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ java FirstProgram
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3136-valid-word](https://github.com/bramhagulavani/Java-Codes/tree/master/3136-valid-word) |
 ## String Matching
 |  |
@@ -75,4 +77,8 @@ java FirstProgram
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
