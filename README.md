@@ -45,6 +45,7 @@ java FirstProgram
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
@@ -67,6 +68,7 @@ java FirstProgram
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3136-valid-word](https://github.com/bramhagulavani/Java-Codes/tree/master/3136-valid-word) |
