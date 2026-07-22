@@ -64,6 +64,7 @@ java FirstProgram
 | [1517-find-users-with-valid-e-mails](https://github.com/bramhagulavani/Java-Codes/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/bramhagulavani/Java-Codes/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bramhagulavani/Java-Codes/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1729-find-followers-count](https://github.com/bramhagulavani/Java-Codes/tree/master/1729-find-followers-count) |
 ## String
 |  |
 | ------- |
