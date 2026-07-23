@@ -69,6 +69,7 @@ java FirstProgram
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -87,6 +88,7 @@ java FirstProgram
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Two Pointers
@@ -97,4 +99,12 @@ java FirstProgram
 |  |
 | ------- |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
