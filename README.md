@@ -73,6 +73,7 @@ java FirstProgram
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1859-sorting-the-sentence](https://github.com/bramhagulavani/Java-Codes/tree/master/1859-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -109,4 +110,8 @@ java FirstProgram
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/bramhagulavani/Java-Codes/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
