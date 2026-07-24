@@ -82,12 +82,14 @@ java FirstProgram
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3136-valid-word](https://github.com/bramhagulavani/Java-Codes/tree/master/3136-valid-word) |
+| [3407-substring-matching-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3798-largest-even-number](https://github.com/bramhagulavani/Java-Codes/tree/master/3798-largest-even-number) |
 ## String Matching
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
+| [3407-substring-matching-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/3407-substring-matching-pattern) |
 ## Matrix
 |  |
 | ------- |
