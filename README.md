@@ -79,6 +79,7 @@ java FirstProgram
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/bramhagulavani/Java-Codes/tree/master/1859-sorting-the-sentence) |
@@ -136,4 +137,8 @@ java FirstProgram
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
