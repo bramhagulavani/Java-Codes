@@ -79,6 +79,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
+| [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
@@ -114,6 +115,7 @@ java FirstProgram
 ## Two Pointers
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Counting
 |  |
