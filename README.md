@@ -79,6 +79,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/bramhagulavani/Java-Codes/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bramhagulavani/Java-Codes/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -124,6 +125,7 @@ java FirstProgram
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
@@ -143,6 +145,7 @@ java FirstProgram
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -154,4 +157,8 @@ java FirstProgram
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
