@@ -94,6 +94,7 @@ java FirstProgram
 | [1859-sorting-the-sentence](https://github.com/bramhagulavani/Java-Codes/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/bramhagulavani/Java-Codes/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -130,6 +131,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
@@ -153,6 +155,7 @@ java FirstProgram
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Stack
 |  |
