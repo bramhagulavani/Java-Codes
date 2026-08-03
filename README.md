@@ -68,6 +68,7 @@ java FirstProgram
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bramhagulavani/Java-Codes/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/bramhagulavani/Java-Codes/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/bramhagulavani/Java-Codes/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/bramhagulavani/Java-Codes/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/bramhagulavani/Java-Codes/tree/master/0619-biggest-single-number) |
 | [0627-swap-sex-of-employees](https://github.com/bramhagulavani/Java-Codes/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/bramhagulavani/Java-Codes/tree/master/1075-project-employees-i) |
