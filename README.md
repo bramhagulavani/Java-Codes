@@ -72,6 +72,7 @@ java FirstProgram
 | [0619-biggest-single-number](https://github.com/bramhagulavani/Java-Codes/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/bramhagulavani/Java-Codes/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/bramhagulavani/Java-Codes/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bramhagulavani/Java-Codes/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/bramhagulavani/Java-Codes/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/bramhagulavani/Java-Codes/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/bramhagulavani/Java-Codes/tree/master/1280-students-and-examinations) |
