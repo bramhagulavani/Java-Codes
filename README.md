@@ -62,6 +62,7 @@ java FirstProgram
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/bramhagulavani/Java-Codes/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bramhagulavani/Java-Codes/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/bramhagulavani/Java-Codes/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/bramhagulavani/Java-Codes/tree/master/0511-game-play-analysis-i) |
