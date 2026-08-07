@@ -79,6 +79,7 @@ java FirstProgram
 | [1075-project-employees-i](https://github.com/bramhagulavani/Java-Codes/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/bramhagulavani/Java-Codes/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/bramhagulavani/Java-Codes/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/bramhagulavani/Java-Codes/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bramhagulavani/Java-Codes/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/bramhagulavani/Java-Codes/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/bramhagulavani/Java-Codes/tree/master/1527-patients-with-a-condition) |
