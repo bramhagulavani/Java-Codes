@@ -86,6 +86,7 @@ java FirstProgram
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bramhagulavani/Java-Codes/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/bramhagulavani/Java-Codes/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/bramhagulavani/Java-Codes/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/bramhagulavani/Java-Codes/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## String
 |  |
 | ------- |
