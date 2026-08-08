@@ -55,6 +55,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/bramhagulavani/Java-Codes/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +148,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/bramhagulavani/Java-Codes/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/bramhagulavani/Java-Codes/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
@@ -182,4 +184,8 @@ java FirstProgram
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bramhagulavani/Java-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/bramhagulavani/Java-Codes/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
