@@ -97,6 +97,7 @@ java FirstProgram
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/bramhagulavani/Java-Codes/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bramhagulavani/Java-Codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
@@ -119,6 +120,7 @@ java FirstProgram
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
 | [3407-substring-matching-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/3407-substring-matching-pattern) |
 ## Matrix
@@ -190,4 +192,12 @@ java FirstProgram
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/bramhagulavani/Java-Codes/tree/master/0069-sqrtx) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
