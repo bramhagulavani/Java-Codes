@@ -90,6 +90,7 @@ java FirstProgram
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/bramhagulavani/Java-Codes/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/bramhagulavani/Java-Codes/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/bramhagulavani/Java-Codes/tree/master/1873-calculate-special-bonus) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/bramhagulavani/Java-Codes/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## String
 |  |
 | ------- |
