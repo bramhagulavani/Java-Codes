@@ -100,6 +100,7 @@ java FirstProgram
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bramhagulavani/Java-Codes/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/bramhagulavani/Java-Codes/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/bramhagulavani/Java-Codes/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
@@ -178,6 +179,7 @@ java FirstProgram
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bramhagulavani/Java-Codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bramhagulavani/Java-Codes/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/bramhagulavani/Java-Codes/tree/master/0409-longest-palindrome) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -210,4 +212,8 @@ java FirstProgram
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/0459-repeated-substring-pattern) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/bramhagulavani/Java-Codes/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
