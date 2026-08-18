@@ -124,6 +124,7 @@ java FirstProgram
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/bramhagulavani/Java-Codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3136-valid-word](https://github.com/bramhagulavani/Java-Codes/tree/master/3136-valid-word) |
 | [3407-substring-matching-pattern](https://github.com/bramhagulavani/Java-Codes/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -146,6 +147,7 @@ java FirstProgram
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/bramhagulavani/Java-Codes/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/bramhagulavani/Java-Codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,6 +200,7 @@ java FirstProgram
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/bramhagulavani/Java-Codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
