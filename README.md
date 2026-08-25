@@ -69,6 +69,7 @@ java FirstProgram
 | [0181-employees-earning-more-than-their-managers](https://github.com/bramhagulavani/Java-Codes/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0184-department-highest-salary](https://github.com/bramhagulavani/Java-Codes/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/bramhagulavani/Java-Codes/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/bramhagulavani/Java-Codes/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/bramhagulavani/Java-Codes/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bramhagulavani/Java-Codes/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/bramhagulavani/Java-Codes/tree/master/0584-find-customer-referee) |
