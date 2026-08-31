@@ -234,4 +234,12 @@ java FirstProgram
 | ------- |
 | [0409-longest-palindrome](https://github.com/bramhagulavani/Java-Codes/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bramhagulavani/Java-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/bramhagulavani/Java-Codes/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
