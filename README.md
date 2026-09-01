@@ -52,6 +52,7 @@ java FirstProgram
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bramhagulavani/Java-Codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/bramhagulavani/Java-Codes/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ java FirstProgram
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/bramhagulavani/Java-Codes/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/bramhagulavani/Java-Codes/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +202,7 @@ java FirstProgram
 | [2351-first-letter-to-appear-twice](https://github.com/bramhagulavani/Java-Codes/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/bramhagulavani/Java-Codes/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +212,7 @@ java FirstProgram
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -238,8 +242,17 @@ java FirstProgram
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bramhagulavani/Java-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/bramhagulavani/Java-Codes/tree/master/0025-reverse-nodes-in-k-group) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
