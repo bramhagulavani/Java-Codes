@@ -42,6 +42,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/bramhagulavani/Java-Codes/tree/master/0189-rotate-array) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
@@ -157,6 +158,7 @@ java FirstProgram
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/bramhagulavani/Java-Codes/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bramhagulavani/Java-Codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0680-valid-palindrome-ii) |
@@ -175,6 +177,7 @@ java FirstProgram
 | ------- |
 | [0067-add-binary](https://github.com/bramhagulavani/Java-Codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bramhagulavani/Java-Codes/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/bramhagulavani/Java-Codes/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/bramhagulavani/Java-Codes/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
