@@ -43,6 +43,7 @@ java FirstProgram
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/bramhagulavani/Java-Codes/tree/master/0189-rotate-array) |
+| [0748-shortest-completing-word](https://github.com/bramhagulavani/Java-Codes/tree/master/0748-shortest-completing-word) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [1260-shift-2d-grid](https://github.com/bramhagulavani/Java-Codes/tree/master/1260-shift-2d-grid) |
 | [1408-string-matching-in-an-array](https://github.com/bramhagulavani/Java-Codes/tree/master/1408-string-matching-in-an-array) |
@@ -114,6 +115,7 @@ java FirstProgram
 | [0557-reverse-words-in-a-string-iii](https://github.com/bramhagulavani/Java-Codes/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bramhagulavani/Java-Codes/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/bramhagulavani/Java-Codes/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/bramhagulavani/Java-Codes/tree/master/0748-shortest-completing-word) |
 | [0917-reverse-only-letters](https://github.com/bramhagulavani/Java-Codes/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bramhagulavani/Java-Codes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -199,6 +201,7 @@ java FirstProgram
 | [0387-first-unique-character-in-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bramhagulavani/Java-Codes/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/bramhagulavani/Java-Codes/tree/master/0409-longest-palindrome) |
+| [0748-shortest-completing-word](https://github.com/bramhagulavani/Java-Codes/tree/master/0748-shortest-completing-word) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/bramhagulavani/Java-Codes/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/bramhagulavani/Java-Codes/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
