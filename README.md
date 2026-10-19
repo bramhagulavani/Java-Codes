@@ -42,6 +42,7 @@ java FirstProgram
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bramhagulavani/Java-Codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bramhagulavani/Java-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/bramhagulavani/Java-Codes/tree/master/0189-rotate-array) |
 | [0748-shortest-completing-word](https://github.com/bramhagulavani/Java-Codes/tree/master/0748-shortest-completing-word) |
 | [1002-find-common-characters](https://github.com/bramhagulavani/Java-Codes/tree/master/1002-find-common-characters) |
@@ -261,4 +262,8 @@ java FirstProgram
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/bramhagulavani/Java-Codes/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bramhagulavani/Java-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
